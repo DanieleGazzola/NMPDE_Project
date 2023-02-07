@@ -1,0 +1,3 @@
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/Progetto/build/CMakeFiles/rebuild_cache.dir
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/Progetto/build/CMakeFiles/edit_cache.dir
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/Progetto/build/CMakeFiles/lab-05_parallel.dir
