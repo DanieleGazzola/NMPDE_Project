@@ -3,5 +3,5 @@ project(lab01 LANGUAGES CXX C)
 
 include(../common/cmake-common.cmake)
 
-add_executable(lab-05_parallel src/lab-05_parallel.cpp src/Poisson3D_parallel.cpp)
-deal_ii_setup_target(lab-05_parallel)
+add_executable(lab-09 src/lab-09.cpp src/Stokes.cpp)
+deal_ii_setup_target(lab-09)
