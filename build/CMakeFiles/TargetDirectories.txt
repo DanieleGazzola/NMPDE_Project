@@ -1,0 +1,3 @@
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/NMPDE_Project/build/CMakeFiles/edit_cache.dir
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/NMPDE_Project/build/CMakeFiles/rebuild_cache.dir
+/home/jellyfish/shared-folder/PDEs/nmpde-labs/NMPDE_Project/build/CMakeFiles/lab-09.dir
